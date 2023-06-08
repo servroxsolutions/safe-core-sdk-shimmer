@@ -9,7 +9,7 @@ import {
   getSafeSingletonDeployment,
   getSignMessageLibDeployment,
   SingletonDeployment
-} from '@aaron-roe/safe-deployments-shimmer'
+} from '@servrox/safe-deployments-shimmer'
 import {
   CompatibilityFallbackHandlerContract,
   CreateCallContract,

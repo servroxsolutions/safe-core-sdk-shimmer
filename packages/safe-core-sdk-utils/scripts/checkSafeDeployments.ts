@@ -1,4 +1,4 @@
-import { DeploymentFilter, getSafeSingletonDeployment } from '@aaron-roe/safe-deployments-shimmer'
+import { DeploymentFilter, getSafeSingletonDeployment } from '@servrox/safe-deployments-shimmer'
 import { SafeVersion } from '@safe-global/safe-core-sdk-types'
 import { networks } from '../src/eip-3770/config'
 

@@ -1,5 +1,5 @@
 import { BigNumber } from '@ethersproject/bignumber'
-import { getCreateCallDeployment } from '@aaron-roe/safe-deployments-shimmer'
+import { getCreateCallDeployment } from '@servrox/safe-deployments-shimmer'
 import chai from 'chai'
 import chaiAsPromised from 'chai-as-promised'
 import sinon from 'sinon'
