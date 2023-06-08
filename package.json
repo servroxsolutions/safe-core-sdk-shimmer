@@ -1,5 +1,5 @@
 {
-  "name": "@servrox/safe-core-sdk-shimmer",
+  "name": "safe-core-sdk",
   "private": true,
   "scripts": {
     "clean": "lerna clean",

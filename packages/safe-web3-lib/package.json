@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-web3-lib",
+  "name": "@servrox/safe-web3-lib-shimmer",
   "version": "1.9.2",
   "description": "Web3 library adapter to be used by Safe Core SDK",
   "main": "dist/src/index.js",

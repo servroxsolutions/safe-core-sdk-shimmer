@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-core-sdk-types",
+  "name": "@servrox/safe-core-sdk-types-shimmer",
   "version": "1.9.0",
   "description": "Safe Core SDK types",
   "main": "dist/src/index.js",

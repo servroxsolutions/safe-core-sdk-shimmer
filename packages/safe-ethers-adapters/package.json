@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-ethers-adapters",
+  "name": "@servrox/safe-ethers-adapters-shimmer",
   "version": "0.1.0-alpha.16",
   "description": "Safe Ethers Adapters",
   "main": "dist/src/index.js",

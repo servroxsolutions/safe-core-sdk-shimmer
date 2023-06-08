@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-ethers-lib",
+  "name": "@servrox/safe-ethers-lib-shimmer",
   "version": "1.9.2",
   "description": "Ethers library adapter to be used by Safe Core SDK",
   "main": "dist/src/index.js",

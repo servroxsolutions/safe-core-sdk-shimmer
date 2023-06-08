@@ -1,5 +1,5 @@
 {
-  "name": "@safe-global/safe-service-client",
+  "name": "@servrox/safe-service-client-shimmer",
   "version": "2.0.0",
   "description": "Safe Service Client",
   "main": "dist/src/index.js",
